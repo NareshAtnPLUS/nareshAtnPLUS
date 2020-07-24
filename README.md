@@ -1,16 +1,17 @@
-### Hi there 👋
+# Naresh Kumar
 
-<!--
-**NareshAtnPLUS/nareshAtnPLUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack developer with expertise in MEAN STACK 
+![image](https://images.squarespace-cdn.com/content/v1/56b8dfcf62cd94ec072ddb33/1547134322115-TKQN4NJZILFDO4QZPK1D/ke17ZwdGBToddI8pDm48kKlpVKiEURsX431SqXz8nxBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzVE_KPDWd5nuuyA2GuVyRzFpGKFhPO_p49iyD9f3TqR2SihW5_e2KtoMig5lJZCBA/Mean+Stack.png)
+# Skills
+- Angular 
+- MongoDB
+- Express
+- Nodejs
+- NgRx
+# Recent Projects
+I have recently worked for Clinical Biochemist Assocication - [CBAT](http://cbatindia.org/)
+for developing their web application to manage users and for notification purposes
 
-Here are some ideas to get you started:
+# Webfolio
+Check out my webfolio [here](nplusstack.me)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
