@@ -13,5 +13,5 @@ I have recently worked for Clinical Biochemist Assocication - [CBAT](http://cbat
 for developing their web application to manage users and for notification purposes
 
 # Webfolio
-Check out my webfolio [here](nplusstack.me)
+Check out my webfolio [here](www.nplusstack.me)
 
