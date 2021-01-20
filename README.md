@@ -7,7 +7,10 @@
 - MongoDB
 - Express
 - Nodejs
+- React
+- Redux
 - NgRx
+- Material UI
 # Recent Projects
 I have recently worked for Clinical Biochemist Assocication - [CBAT](http://cbatindia.org/)
 for developing their web application to manage users and for notification purposes
