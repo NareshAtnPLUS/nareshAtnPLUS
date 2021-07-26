@@ -14,7 +14,7 @@
 - Material UI
 # Recent Projects
 
-I have recently worked with RR Herbs Pharma - [CBAT](https://rrherbspharma.in)
+I have recently worked with RR Herbs Pharma - [rrherbspharma](https://rrherbspharma.in)
 for developing E Commerce platform with Content Mangement System Dashboards.
 
 I have recently worked for Clinical Biochemist Assocication - [CBAT](https://cbatindia.org/)
