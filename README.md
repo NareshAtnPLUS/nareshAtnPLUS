@@ -2,7 +2,7 @@
 
 ## Senior Software Engineer | AI & Cloud Specialist
 
-**Location:** Bengaluru, India | **Phone:** +91 7483862542 | **Email:** nareshkmr219@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/nareshkmr219)
+**Location:** Bengaluru, India | **Phone:** +91 7483862542 | **Email:** nareshkmr219@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/nareshkmr219) | [Portfolio Website](https://me.naresh-kumar.ink)
 
 ---
 
