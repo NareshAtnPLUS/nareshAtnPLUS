@@ -11,7 +11,55 @@
 A Senior Software Engineer with 5 years of experience, including 2 years in technical leadership roles within startup environments. I excel at translating complex business challenges into **scalable software solutions**, particularly in **sales CRM analytics**. My approach is rooted in collaborative leadership and mentorship, consistently delivering projects from concept to production while fostering team productivity and upholding quality standards. I am actively seeking new challenges across diverse industries, with a clear trajectory toward senior technical and architectural leadership.
 
 ---
+### 🛠 Tech Stack
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+
+![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-1E90FF?style=flat-square&logo=microgenetics&logoColor=white)
+
+
+![Azure Key Vault](https://img.shields.io/badge/-Azure%20Key%20Vault-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure WAF](https://img.shields.io/badge/-Azure%20WAF-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/-Azure%20Functions-0078D4?style=flat-square&logo=azure-functions&logoColor=white)
+![Azure CI/CD](https://img.shields.io/badge/-Azure%20CI/CD-0078D4?style=flat-square&logo=azure-devops&logoColor=white)
+![Azure App Services](https://img.shields.io/badge/-Azure%20App%20Services-0078D4?style=flat-square&logo=windows&logoColor=white)
+
+
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
+![AWS ECS](https://img.shields.io/badge/-AWS%20ECS-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![AWS CloudFront](https://img.shields.io/badge/-AWS%20CloudFront-FF9900?style=flat-square&logo=amazon-cloudwatch&logoColor=white)
+![AWS Route 53](https://img.shields.io/badge/-AWS%20Route%2053-FF9900?style=flat-square&logo=amazon-route53&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/-AWS%20IAM-FF9900?style=flat-square&logo=amazon-iam&logoColor=white)
+![AWS Auto Scaling](https://img.shields.io/badge/-AWS%20Auto%20Scaling-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Databases](https://img.shields.io/badge/-SQL%20Databases-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LangSmith Studio](https://img.shields.io/badge/-LangSmith%20Studio-000000?style=flat-square&logo=databricks&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/-MCP%20Servers-4A90E2?style=flat-square&logo=server&logoColor=white)
+
+---
 ### Professional Experience
 
 #### Senior Software Engineer | Oncierre Systems
